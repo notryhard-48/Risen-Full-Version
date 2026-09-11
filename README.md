@@ -240,3 +240,6 @@ This repository serves as the official landing page for Risen. The software is d
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Risen today!**
+
+---
+**Last updated:** 2026-09-11 15:47:24 UTC
