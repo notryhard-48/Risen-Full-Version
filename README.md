@@ -242,4 +242,4 @@ This repository serves as the official landing page for Risen. The software is d
 **Get the most recent version of Risen today!**
 
 ---
-**Last updated:** 2026-10-12 06:54:26 UTC
+**Last updated:** 2026-10-12 16:26:52 UTC
